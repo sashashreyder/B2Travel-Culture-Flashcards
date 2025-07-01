@@ -1,61 +1,61 @@
 const data = [
   {
     word: 'itinerary',
-    prompt: 'Our ___ includes hiking and local food tours.',
+    prompt: 'She said that our ___ included two museums and a boat trip.',
     answer: 'itinerary',
     hint: 'trip schedule'
   },
   {
     word: 'accommodation',
-    prompt: 'They booked their ___ months in advance.',
+    prompt: 'He told us they had already arranged their ___.',
     answer: 'accommodation',
     hint: 'place to stay'
   },
   {
     word: 'landmark',
-    prompt: 'The Colosseum is a famous Roman ___.',
+    prompt: 'The guide mentioned that the ___ was over 500 years old.',
     answer: 'landmark',
     hint: 'famous site'
   },
   {
     word: 'visa',
-    prompt: 'Did you get your ___ for Japan yet?',
+    prompt: 'She asked if I had applied for a travel ___.',
     answer: 'visa',
     hint: 'travel permission'
   },
   {
     word: 'wanderlust',
-    prompt: 'Her ___ has taken her across five continents.',
+    prompt: 'He said his ___ had started after his first solo trip.',
     answer: 'wanderlust',
     hint: 'desire to travel'
   },
   {
     word: 'jet lag',
-    prompt: 'I’m still tired — this ___ is no joke.',
+    prompt: 'She complained that her ___ was getting worse each trip.',
     answer: 'jet lag',
     hint: 'time zone fatigue'
   },
   {
     word: 'backpacking',
-    prompt: 'He spent the summer ___ around South America.',
+    prompt: 'They said they had gone ___ across Southeast Asia.',
     answer: 'backpacking',
     hint: 'budget travel'
   },
   {
     word: 'immigration',
-    prompt: 'They asked questions during the ___ check.',
+    prompt: 'He said that the ___ process had taken over an hour.',
     answer: 'immigration',
     hint: 'border process'
   },
   {
     word: 'sightseeing',
-    prompt: 'We’ve done a lot of ___ this week in Lisbon.',
+    prompt: 'She said they were planning to spend the day ___.',
     answer: 'sightseeing',
     hint: 'visiting places'
   },
   {
     word: 'cuisine',
-    prompt: 'We’ve tried almost every type of local ___.',
+    prompt: 'They said they had never tried local ___ before.',
     answer: 'cuisine',
     hint: 'regional food'
   }
